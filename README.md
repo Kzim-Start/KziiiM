@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Kauan%20Carvalho%20dos%20Santos&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descColor=E0E0E0&descSize=17" width="100%"/>
 
