@@ -2,10 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kauan%20Carvalho%20dos%20Santos&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=E0E0E0&descSize=20" width="100%"/>
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=8A63D2&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Escreva+uma+vez%2C+rode+em+qualquer+lugar+%F0%9F%9A%80;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
 
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=KziiiM&color=8A63D2&style=flat-square&label=Visitas+ao+perfil" alt="Profile Views"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/KziiiM?label=seguidores&style=flat-square&color=8A63D2&labelColor=0A0F1E&logo=github" alt="Followers"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20projetos-8A63D2?style=flat-square&labelColor=0A0F1E" alt="Status"/>
 
 </div>
@@ -27,6 +33,8 @@ status  : construindo e aprendendo sempre ⚡
 
 ### 🚀 Sobre mim
 
+<br/>
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
 
 ```javascript
@@ -38,13 +46,20 @@ const kauan = {
 };
 ```
 
+<br/>
+
 - 🔭 Criando projetos full stack sem medo de errar
+
 - 🌱 Aprendendo algo novo praticamente toda semana
+
 - ⚔️ Debug é meu segundo esporte favorito
+
 - 🎯 Meta: código limpo, rápido e que roda em qualquer lugar
+
 - 🤝 Sempre aberto pra trocar ideia sobre projetos e tecnologia
 
 <br clear="right"/>
+<br/>
 
 ---
 
@@ -70,6 +85,7 @@ const kauan = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-kcarvalhodossanto%40gmail.com-8A63D2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E)](mailto:kcarvalhodossanto@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KziiiM-8A63D2?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/KziiiM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kauan--c-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E)](https://www.linkedin.com/in/kauan-c/)
 
 </div>
 
